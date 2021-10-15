@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Arghadatta
 - 👀 I’m interested in It things...
-- 🌱 I’m currently learning C,C++
+- 🌱 I’m currently learning C,C++ And on Competitive Programming
 - 💞️ I’m looking to collaborate on competitive and Fun Projects
 - 📫 How to reach me ...
-Although ,i am 14 years old
+- arghadatta6660@gmail.com
 
 
 <!---
